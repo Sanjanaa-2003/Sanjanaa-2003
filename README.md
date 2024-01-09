@@ -2,12 +2,12 @@
 
  <h1 align="center">Hi 👋, I'm Sanjanaa</h1> 
 <h3 align="center">An aspiring 3rd year ECE student</h3>
-mg align="right" alt="Coding" width="400" src="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/woman-technologist-light-skin-tone.png")
+
 
 - 👀 I’m interested in learning new technologies and expanding my skills.
 - 🌱 I’m currently learning Python, C, Data Analysis, and ML tools like Excel, pandas, numpy.
-- 💞️ My resume - https://drive.google.com/file/d/11KsqLR-eGovuHrzMkPS5QmkTyME6hyKQ/view?usp=drive_link
-- 📫 sanjanaarj2003@gmail.com
+- 🎓 My resume - https://drive.google.com/file/d/11KsqLR-eGovuHrzMkPS5QmkTyME6hyKQ/view?usp=drive_link
+- 📫 Contatc me: sanjanaarj2003@gmail.com
 - ⚡ Fun fact: I am quite sarcastic.
 - 🌱 I’m currently learning **Python, C, Data Analysis, and ML tools like Excel, pandas, numpy.**
 - 📝 I regularly post and browse on [https://stackoverflow.com/](https://stackoverflow.com/)
