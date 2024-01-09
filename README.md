@@ -6,7 +6,7 @@ mg align="right" alt="Coding" width="400" src="https://s3.amazonaws.com/pix.iemo
 
 - 👀 I’m interested in learning new technologies and expanding my skills.
 - 🌱 I’m currently learning Python, C, Data Analysis, and ML tools like Excel, pandas, numpy.
-- 💞️ I’m looking to collaborate on new ideas/projects.
+- 💞️ My resume - https://drive.google.com/file/d/11KsqLR-eGovuHrzMkPS5QmkTyME6hyKQ/view?usp=drive_link
 - 📫 sanjanaarj2003@gmail.com
 - ⚡ Fun fact: I am quite sarcastic.
 - 🌱 I’m currently learning **Python, C, Data Analysis, and ML tools like Excel, pandas, numpy.**
