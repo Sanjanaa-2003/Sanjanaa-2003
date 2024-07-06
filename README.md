@@ -5,12 +5,11 @@
 
 
 - 👀 I’m interested in learning new technologies and expanding my skills.
-- 🌱 I’m currently learning Python, C, Data Analysis, and ML tools like Excel, pandas, numpy.
+- 🌱 I’m currently learning Python, C, Data Structures and Algorithms.
 - 🎓 My resume - https://drive.google.com/file/d/11KsqLR-eGovuHrzMkPS5QmkTyME6hyKQ/view?usp=drive_link
 - 📫 Contact me: sanjanaarj2003@gmail.com
-- ⚡ Fun fact: I am quite sarcastic.
 - 🌱 I’m currently learning **Python, C, Data Science, and ML.**
-- 📝 I regularly post and browse on [https://stackoverflow.com/](https://stackoverflow.com/)
+- 📝 I regularly solve problems on [(https://leetcode.com/)]
 - ⚡ Fun fact **I am slow but steady.**
 
 <h3 align="left">Connect with me:</h3>
