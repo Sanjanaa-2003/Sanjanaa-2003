@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning Python, C, Data Structures and Algorithms.
 - 🎓 My resume - https://drive.google.com/file/d/11KsqLR-eGovuHrzMkPS5QmkTyME6hyKQ/view?usp=drive_link
 - 📫 Contact me: sanjanaarj2003@gmail.com
-- 🌱 I’m currently learning **Python, C, Data Science, and ML.**
-- 📝 I regularly solve problems on [(https://leetcode.com/)]
+- 🌱 I’m currently learning **Frontend Web Development**
 - ⚡ Fun fact **I am slow but steady.**
 
 <h3 align="left">Connect with me:</h3>
